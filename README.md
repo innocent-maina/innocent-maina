@@ -3,7 +3,7 @@
 <!-- ---------------------------------------------- -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="./images/github-banner.png" height="400px">
+    <img src="./images/banner.gif" >
   </a>
 </h1>
 
