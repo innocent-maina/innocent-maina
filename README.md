@@ -11,7 +11,7 @@
 # *Wahome Maina*
 
 **Business Technology · Systems · Trade**  
-🟢 Building in Nairobi — [Nuvana Studio](https://nuvana.studio)
+🟢 Building in Nairobi — [Nuvana Studio](https://nuvanastudio.com)
 
 ---
 
@@ -32,23 +32,30 @@ Good systems are invisible when they're working. That's the goal.
 
 ### Stack
 
-`Nuxt 4` `Supabase` `TypeScript` `Tailwind v4` `React / Vite` `Nuxt UI` `Fastify` `BullMQ` `Python`
+`Nuxt 4` `Supabase` `TypeScript` `React / Vite` `NestJS` `Fastify` `BullMQ` `Python` `Claude` `Odoo`
 
 ---
 
 ### Background
 
 ```
-ERP & Systems          →  Administration, automation, operational reporting
-Product                →  SaaS development, commerce infrastructure, WhatsApp business tools  
+ERP & Systems          →  Administration, automation, operational reporting, Odoo
+Infrastructure         →  Server management, networking, Linux environments
+Product                →  SaaS development, commerce infrastructure, WhatsApp business tools
 Domain                 →  Business technology, trade systems, African markets
 ```
 
 ---
 
+### Certifications
+
+- 🔄 **Odoo Foundations** — in progress
+
+---
+
 <div align="center">
 
-[wahomemaina.co.ke](https://wahomemaina.co.ke) · [nuvana.studio](https://nuvana.studio) · Nairobi, Kenya
+[wahomemaina.co.ke](https://wahomemaina.co.ke) · [nuvanastudio.com](https://nuvanastudio.com) · Nairobi, Kenya
 
 <sub><i>always building ✦</i></sub>
 
